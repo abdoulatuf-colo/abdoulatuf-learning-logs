@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://abdoulatuf-colo.github.io/abdoulatuf-learning-logs'
 languageCode = 'en-us'
 title = 'Abdoulatuf learning logs'
 theme = "ananke"
+relativeURLs = true
+canonifyURLs = true
