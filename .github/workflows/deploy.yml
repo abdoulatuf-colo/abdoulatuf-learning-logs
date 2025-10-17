@@ -20,10 +20,11 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Setup Hugo
+      - name: Setup Hugo (extended version)
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.151.0'
+          extended: true
 
       - name: Build site
         run: hugo --minify
