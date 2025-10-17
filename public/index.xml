@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdoulatuf learning logs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Abdoulatuf learning logs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Oct 2025 10:52:13 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edge Computing</title>
+      <link>http://localhost:1313/posts/edge-computing/</link>
+      <pubDate>Thu, 16 Oct 2025 10:52:13 +0200</pubDate>
+      <guid>http://localhost:1313/posts/edge-computing/</guid>
+      <description>&lt;h1 id=&#34;la-data&#34;&gt;La Data&lt;/h1&gt;&#xA;&lt;p&gt;L’activité humaine génère une quantité considérable de données (« data ») que nous collectons ou consommons quotidiennement : dépenses sur un compte bancaire, données issues d’une séance de sport, messages, consommation d’électricité, films regardés sur les plateformes de streaming, requêtes web, utilisation de ChatGPT, etc.&lt;/p&gt;&#xA;&lt;p&gt;Cette masse d’informations est stockée, analysée, traitée, sécurisée et transmise par des ordinateurs spécialisés appelés serveurs, eux-mêmes hébergés dans des structures dédiées à leur entretien et à leur protection : les data centers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
