@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Learning Logs'
 theme = "ananke"
 canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
